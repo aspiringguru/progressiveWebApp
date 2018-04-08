@@ -1,0 +1,10 @@
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
+
+https://www.youtube.com/watch?v=meofoNuK3vo
+
+
+https://developer.yahoo.com/weather/documentation.html#req
+
+https://console.firebase.google.com
+
+https://myweather-56969.firebaseapp.com/
